@@ -5,7 +5,7 @@ namespace App\Services\Access;
 use Illuminate\Contracts\Auth\Authenticatable;
 
 /**
- * Class Access.
+ * Class Access. 
  */
 class Access
 {
