@@ -9,7 +9,7 @@
                 <div class="panel-heading">{{ trans('navs.frontend.dashboard') }}</div>
 
                 <div class="panel-body">
-
+  
                     <div class="row">
 
                         <div class="col-md-4 col-md-push-8">
